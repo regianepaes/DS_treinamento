@@ -11,7 +11,7 @@ Meu Portfólio de Projetos desenvolvidos para treinamento em Data Science
 
 Especialista em Geoprocessamento na Agência Nacional de Águas desde 2003.
 
-**Background in:** ArcGIS, Georpocessamento, Sensoriamento Remoto, Data Science, Python.
+**Background in:** Georpocessamento, Sensoriamento Remoto, ArcGIS, Data Science, Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/regiane-paes/)
