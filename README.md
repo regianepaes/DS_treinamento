@@ -1,2 +1,2 @@
-# DS_treinamento
+# Data Science - Treinamento
 Treinamento Data Science
